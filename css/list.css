@@ -1,0 +1,10 @@
+body{
+	background-color: purple;
+}
+ul{
+	font-size: 30px;
+	color: orange;
+}
+.l1 li{
+	padding-left: 20px;
+}

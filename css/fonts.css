@@ -1,0 +1,43 @@
+body{
+	background-color : purple;
+}
+p{
+	font-size: 40px;
+}
+.p1{
+	color: pink;
+	background: linear-gradient(purple,violet);
+	text-align: center;
+}
+.p2{
+	font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+.p5{
+	font-family: 'Russo One'sss ;
+	text-transform: uppercase;
+}
+.p8{
+	font-family: 'Rubik Mono One', monospace;
+}
+.p6{
+	font-family: 'Advent Pro', sans-serif;
+}
+.p3{
+	text-decoration: underline;
+	text-decoration-color: red;
+	text-decoration-style:wavy ;
+	text-underline-position:under ;
+}
+.p10{
+	text-shadow: 0 0 10px darkred;
+}
+.s1{
+	text-shadow: 5px 5px #558ABB;
+}
+.s2{
+	text-shadow: 5px 5px #558ABB;
+	font-family: 'Pacifico', cursive;
+}
+.s3{
+	font-family: 'Permanent Marker', cursive;
+}

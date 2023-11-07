@@ -1,0 +1,46 @@
+dbody{
+	background-color: mintcream;
+}
+p{
+	font-size: 50px;
+	color: green;
+	background-color: yellow;
+}
+table{
+	border:double 2px orange ;
+	width:50% ;
+	font-size:24px ;
+	margin: auto;
+}
+th,td{
+   border: solid 1px purple;
+   width: 24%;
+height: 1cm;
+border-radius: 20%;
+}
+tr:hover{
+	background-color: yellow;
+}
+td:hover{
+	background-image: url(https://i.gifer.com/4dZN.gif);
+		
+
+		
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	font-size: 1.3em;
+}
+tr:nth-child(even) {
+background-color: green;
+}
+
+
+caption{
+	text-transform: uppercase;
+	font-size:50 px ;
+	text-shadow: 0,0,10px orchid;
+	background: linear-gradient(to left, red,yellow,pink,purple);
+
+}

@@ -1,0 +1,31 @@
+
+
+
+body{
+	background-color: orangered;
+	background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+	background-size: 200px;
+}
+p{ 
+	font-size:0.9 ;
+background-image: url(https://static.vecteezy.com/system/resources/previews/001/849/553/non_2x/modern-gold-background-free-vector.jpg);
+	font-size: 0.5in;
+	font-family: "Lobster" ;
+	text-align: center;
+    text-shadow: 0 0 5px orange;
+}
+.img{
+	width:40% ;
+	margin:auto ;
+	display:block ;
+	border-radius:50% ;
+	box-shadow:10px 10px 50px darkgreen ;
+}
+.im1{
+width: 500px;
+border: ridge 30px orange;
+
+}
